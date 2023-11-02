@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Curriculum Vitae</title>
+</head>
+
+<body style="background-color:aliceblue;">
+<img src="D:\Facultate\Informatica Aplicata\laborator 5\WhatsApp Image 2023-11-02 at 16.35.45_7ce617de.jpg" style="width:200px;height:200px;" align=right>
+<h1> Date personale</h1>
+<p> Nume:Varo</p>
+<p> Prenume: Gabriela-Bianca </p>
+<br>Data nasterii: 22.06.2005</br>
+<br>Telefon: 0760034730 </br>
+<br> Email: gabrielavaro22@gmail.com
+
+<h3 style="color:darkcyan"> "Un gram de practica valoreaza cat un kilogram de teorie" </h3>
+<style>
+table, th, td {
+  border: 3px solid black;
+  border-collapse: collapse;
+  border-radius: 50px;
+}
+</style>
+
+<table style="width:70%">
+<tr>
+<th> Denumire disciplina </th>
+<th>Anul de studiu</th>
+<th>Fisa disciplinei</th>
+</tr>
+<tr>
+<td> Programarea calculatoarelor si limbaje de programare</td>
+<td>Anul I, Semestrul I</td>
+<td> <a href="https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/04a.pdf">Programare</a></td>
+</tr>
+<tr>
+<td> Informatica aplicata</td>
+<td>Anul I, Semestrul I</td>
+<td> <a href="https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/06.pdf">Informatica</a></td>
+</tr>
+<tr>
+<td>Analiza matematica</td>
+<td>Anul I, Semestrul I</td>
+<td> <a href="https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/01a.pdf">Anliza </a></td>
+</tr>
+<tr>
+<td> Componente si circuite pasive</td>
+<td>Anul I, Semestrul I</td>
+<td> <a href="https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/05a.pdf">CCP </a></td>
+</td>
+</table>
+
+<h3>Hobby-uri</h3>
+<ol>
+<li>Desenul</li>
+<li>Calatoritul</li>
+<li>Fotografia</li>
+<li>Gatitul</li>
+<li>Gradinaritul</li>
+</ol>
+
+
+
+
+
+</body>
+</html>
